@@ -2,7 +2,7 @@
 ![Status](https://img.shields.io/badge/status-ongoing-blue)  
 *gatau ah buat simpen simpen aja.*
 
-<img src="downloads.jpeg" alt="Header Image" style="width:100%;">
+<img src="download.jpeg" alt="Header Image" style="width:100%;">
 
 ## 👋 Tentang Saya
 Halo! Saya Dimas, siswa SMK jurusan **Teknik Jaringan Komputer dan Telekomunikasi** dengan minat utama di bidang programming. Saya terus belajar dan mengembangkan keterampilan saya dalam pemrograman, mulai dari pengembangan aplikasi web hingga eksplorasi di bidang keamanan siber.
