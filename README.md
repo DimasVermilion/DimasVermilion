@@ -12,7 +12,6 @@ Repositori ini berisi proyek-proyek yang saya kembangkan sebagai bagian dari per
 
 - **Web Development**: Pembuatan aplikasi web menggunakan HTML, CSS, dan JavaScript.
 - **Back-End Development**: Membangun API sederhana dengan Node.js dan Express.
-- **Pemrograman Jaringan**: Skrip untuk otomatisasi tugas jaringan.
 - **Security Testing**: Percobaan CTF dan pengembangan tools untuk memahami konsep keamanan siber.
 
 ## 🔧 Teknologi yang Saya Gunakan
