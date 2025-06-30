@@ -11,7 +11,7 @@ Halo! Saya Dimas, siswa SMK jurusan **Teknik Jaringan Komputer dan Telekomunikas
 Repositori ini berisi proyek-proyek yang saya kembangkan sebagai bagian dari perjalanan belajar di dunia pemrograman, termasuk beberapa teknologi dan konsep berikut:
 
 - **Web Development**: Pembuatan aplikasi web menggunakan HTML, CSS, dan JavaScript.
-- **Back-End Development**: Membangun API sederhana dengan Node.js dan Express.
+- **Back-End Development**: Membangun API sederhana dengan Node.js dan Laravel.
 - **Security Testing**: Percobaan CTF dan pengembangan tools untuk memahami konsep keamanan siber.
 
 ## 🔧 Teknologi yang Saya Gunakan
