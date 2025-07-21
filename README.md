@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NuxtJs, Laravel, ReactJs, VueJs, Golang & Shell**
 
-- 👨‍💻 All of my projects are available at [.....](.....)
+- 👨‍💻 All of my projects are available at [https://DimasVermilion.my.id]
 
 - 📝 I regularly write articles on [https://www.notion.so/Welcome-to-my-blog-23141f54c9018055907accc0e42a289f?source=copy_link](https://www.notion.so/Welcome-to-my-blog-23141f54c9018055907accc0e42a289f?source=copy_link)
 
