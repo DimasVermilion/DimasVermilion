@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasvermilion&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimasvermilion" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimasvermilion" alt="dimasvermilion" /></a> </p>
-
-- 🌱 I’m currently learning **NUXTJS, LARAVEL, REACTJS, VUEJS, GOLANG & SHELL**
+- 🌱 I’m currently learning **NuxtJs, Laravel, ReactJs, VueJs, Golang & Shell**
 
 - 👨‍💻 All of my projects are available at [.....](.....)
 
