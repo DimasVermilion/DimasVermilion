@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimasvermilion&label=Profile%20views&color=0e75b6&style=flat-square" alt="dimasvermilion" /> </p>
 
-Miaw Miaw Miaw
+I just want to be a cat—no work, just sleep and meow, meow
